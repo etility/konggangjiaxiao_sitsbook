@@ -1,2 +1,2 @@
-# -python
-空港驾校抢课python，利用selenium模块
+空港驾校抢课python（selenium）
+驾照练车网络预约制，奈何每日7点手速不够快，故有此物。
